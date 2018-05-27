@@ -3,5 +3,6 @@ class ItemsController < ApplicationController
   end
 
   def pay
+
   end
 end
